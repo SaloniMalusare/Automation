@@ -12,11 +12,5 @@
     <classes>
       <class name="Testng.saucedemotestng"/>
     </classes>
-  </test> <!-- Test -->
-  <test  name="edge">
-  <parameter name="b" value="edge"></parameter>
-    <classes>
-      <class name="Testng.saucedemotestng"/>
-    </classes>
-  </test>
+ </test>
 </suite> <!-- Suite -->
